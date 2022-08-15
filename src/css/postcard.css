@@ -1,0 +1,42 @@
+.homeCard-user-icon{
+    width: 45px;
+    border: black 2px solid;
+    border-radius: 50%;
+  }
+  
+  .homeCard-user-name{
+    font-style: italic;
+    font-weight: 700;
+  }
+  
+  .homeCard-user-tag{
+    color: gray;
+  
+  }
+  
+  .homeCard-user-date{
+    color: gray;
+  }
+
+  .homeCard-msn {
+    margin-left: 7.1%;
+    
+  }
+  
+  .homeCard-rightInfo{
+    display: flex;
+  }
+  
+  .homeCard-rightInfo p{
+    margin-left: 1%;
+  }
+  
+  
+  
+  
+  .homeCard{
+    margin-top: 0%;
+    padding: 1.9%;
+    width: 100%;
+    border: rgb(156, 156, 156) 1px solid;
+  }

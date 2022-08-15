@@ -1,0 +1,90 @@
+
+
+
+.Tw-logo{
+
+  width: 31px;
+  height: 27.5px;
+}
+
+.Tw-icon{
+  width: 40.25px;
+  height: 40.25px;
+  
+}
+
+.Tw-logo-text{
+  font-size: 2.5vh;
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-left: 3%;
+  padding-top: 2%;
+
+}
+
+.Tw-row-p{
+  margin-top:3%;
+  margin-left: 33%;
+  margin-bottom: 5%;
+  display: flex;
+  flex-direction: row;
+}
+
+.Tw-row{
+  margin-top:4%;
+  margin-left: 33%;
+  display: flex;
+  flex-direction: row;
+}
+
+.Tw-row-l{
+  margin-top:4%;
+  margin-left: 33%;
+  padding-top: 48%;
+  display: flex;
+  flex-direction: row;
+}
+
+.Tw-btn{
+
+  width: 200px;
+  height: 50px;
+  border-radius: 15%;
+}
+
+.hidetweet{
+  display: none;
+}
+
+
+.Tw-header {
+  background-color: white;
+  width: 28%;
+  height: 100% ;
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  transform: translate(1%,1%);
+  border-right: gray 1px solid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@font-face {
+  font-family:bebass;
+  src: url(../fonts/Bebas-Regular.ttf);
+}
+
+

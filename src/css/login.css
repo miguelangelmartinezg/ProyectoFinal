@@ -1,0 +1,40 @@
+.cLogin{
+    float: right;
+    width: 18%;
+    position: fixed;
+    top: 1%;
+    right: 3%;
+}
+
+.cUser{
+    float: right;
+    width: 18%;
+    position: fixed;
+    top: 5%;
+    right: 3%;
+}
+
+.hide{
+    display: none;
+}
+
+.login-rightInfo{
+    display: flex;
+}
+
+.login-user-icon{
+    width: 45px;
+    border: black 2px solid;
+    border-radius: 50%;
+}
+
+.login-user-name{
+    font-style: italic;
+    font-weight: 700;
+}
+
+.login-user-tag{
+    font-style: italic;
+    color: rgb(179, 179, 179);
+    font-weight: 500;
+}
